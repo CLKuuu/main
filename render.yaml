@@ -6,3 +6,4 @@ services:
     startCommand: "poetry run python main.py"
     pythonVersion: 3.11.11
     autoDeploy: true
+
